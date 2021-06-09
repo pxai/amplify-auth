@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Amplify Auth sample
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Build Status](https://travis-ci.org/pxai/amplify-auth.svg?branch=master)](https://travis-ci.org/pxai/amplify-auth)
 
-## Available Scripts
+
+## AWS Setup process
+
+
+## Available Scripts for YARN
 
 In the project directory, you can run:
 
