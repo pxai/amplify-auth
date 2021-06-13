@@ -1,6 +1,6 @@
 import { Auth } from 'aws-amplify';
 
-async function resendConfirmationCode(username: string) {
+export default async function resendConfirmationCode(username: string) {
     try {
         await Auth.resendSignUp(username);
         console.log('code resent successfully');
