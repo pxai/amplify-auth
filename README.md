@@ -4,7 +4,12 @@
 
 
 ## AWS Setup process
-
+https://docs.amplify.aws/cli/start/install#option-2-follow-the-instructions
+### AUTO
+Install amplify:
+```
+npm install -g @aws-amplify/cli
+```
 
 ## Available Scripts for YARN
 
